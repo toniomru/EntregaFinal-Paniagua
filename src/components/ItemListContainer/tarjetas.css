@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+.btn-custom{ 
+    background-color: white; 
+    color: black;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+
+}
+.btn-custom:hover{
+    background-color: #0b9278;
+    color: white;
+}
+.card a{
+    text-decoration: none;
+    font-family: "Teko", sans-serif;
+   
+    
+}
+.card h5{
+    color: white;
+    font-size: 40px;
+    
+}
+.card p{
+    color: white;
+    font-size: 30px;
+}
+.card{
+    background-color: #046f57;
+    
+}

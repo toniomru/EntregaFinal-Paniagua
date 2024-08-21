@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+
+.barra {
+  background-color: #046f57; 
+  padding: 10px 20px; 
+}
+
+
+.navbar {
+  display: flex;
+  align-items: center; 
+    justify-content: space-between; 
+}
+
+
+.brand {
+  flex: 1; 
+}
+
+
+.brand img {
+  height: 150px; 
+}
+
+
+.menu-container {
+  flex: 2; 
+  display: flex;
+  justify-content: center; 
+}
+
+
+.font-nav {
+  display: flex;
+  list-style: none; 
+  margin: 0;
+  padding: 0;
+}
+
+
+.font-nav li {
+  margin: 0 15px; 
+}
+
+
+.font-nav a {
+  font-family: "Teko", sans-serif;
+  text-decoration: none;
+  color: white; 
+  font-size: 50px; 
+  padding: 5px 10px; 
+}
+
+
+.font-nav a:hover {
+  background-color: #0b9278; 
+  border-radius: 4px; 
+}
+
+
+.cart-widget {
+  flex: 1;
+  
+}
+.carrito {
+  display: flex;
+  align-items: center; 
+  color: white; 
+  font-size: 16px; 
+}
+
+.carrito p {
+  margin: 0 10px; 
+  font-weight: bold;
+  font-family:"Teko", sans-serif ;
+  font-size: 30px; 
+}
+
+.carrito img {
+  height: 40px; 
+  width: auto; 
+}

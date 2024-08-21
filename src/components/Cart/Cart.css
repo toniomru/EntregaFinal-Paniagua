@@ -1,0 +1,62 @@
+.carritovacio{
+   
+}
+.carritovacio h2{
+    font-size: 70px;
+    text-align: center;
+    font-family: "Teko", sans-serif;
+}
+.link{
+    text-decoration: none;
+    font-size: 40px;
+    border-style: groove;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: "Teko", sans-serif;
+    justify-content: space-between;
+    margin:650px;
+    padding:10px;
+}
+.link:hover{
+    background-color: #0b9278;
+    color: white;
+   
+}
+.tarjetacompra{
+    display: inline-block;
+}
+.eliminar{
+    text-decoration: none;
+    font-size: 40px;
+    border-style: groove;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: "Teko", sans-serif;
+    justify-content: space-between;
+  
+}
+.eliminar:hover{
+    background-color: #0b9278;
+    color: white;
+  
+
+}
+.eliminart{
+    text-decoration: none;
+    font-size: 40px;
+    border-style: groove;
+    background-color: #f0f0f0;
+    color:black;
+    font-family: "Teko", sans-serif;
+    justify-content: space-between;
+    margin-left:650px;
+    padding:10px;
+}
+.eliminart:hover{
+    background-color: #0b9278;
+    color: white;
+}
+.parrafos{
+    font-family: "Teko", sans-serif;
+   
+}

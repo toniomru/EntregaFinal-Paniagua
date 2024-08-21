@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap');
+
+.btn-custom{ 
+    background-color: black;
+    color: white;
+    font-family: "Teko", sans-serif;
+    font-size: 20px;
+
+}
+.btn-custom:hover{
+    background-color: #0b9278;
+    color: white;
+}
+.container{
+    font-family: "Teko", sans-serif;
+    font-size: 40px;
+}
+p{
+    font-size: 20px;
+}
+.card h5{
+    color: white;
+}
+.card p{
+    color: white;
+}
+.card{
+    background-color: #046f57;}
+
+.terminar{
+    background-color: #f0f0f0; 
+    color: black;
+    font-family: "Teko", sans-serif;
+    font-size: 40px;
+    text-decoration: none;
+    border-style: groove;
+}
+.terminar:hover{
+    background-color: #0b9278;
+    color: white;
+}
+.col-md-6{
+    background-color: #046f57;
+    border-radius: 20px;
+    color: white;
+}
+.col-md-6 h2{
+    font-size: 80px;
+}
+.col-md-6 p{
+    font-size: 40px;
+}
+.h4{font-size: 60px;}
+.button-container {
+    display: flex;
+    align-items: center;
+    gap: 20px; 
+}
+.agregarca{
+    width:  200px;
+    height: 50px;
+   
+    font-size: 30px;
+}
+.agregarc{
+  
+   height: 50px;
+   width: 50px;
+}
+
+.agregarca:hover{
+    background-color: #0b9278;
+    color: white;
+   
+
+}
+.agregarc:hover{
+    background-color: #0b9278;
+    color: white;
+   
+}
